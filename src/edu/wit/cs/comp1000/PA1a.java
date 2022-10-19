@@ -1,6 +1,6 @@
 package edu.wit.cs.comp1000;
 
-// TODO: document this class
+// TODO: document this class code
 public class PA1a {
 
 	// TODO: document this function

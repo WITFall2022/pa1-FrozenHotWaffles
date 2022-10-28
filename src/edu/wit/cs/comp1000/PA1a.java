@@ -19,7 +19,7 @@ public class PA1a {
 				System.out.printf("Enter the number of inches: ");
 				inches=input.nextInt();
 				
-				
+				 
 				
 				
 		// TODO: write your code here
